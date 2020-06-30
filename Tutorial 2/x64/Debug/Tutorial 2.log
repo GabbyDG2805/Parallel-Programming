@@ -1,0 +1,15 @@
+﻿  Tutorial 2.cpp
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 220 (OpenCL 2.2)
+  Tutorial 2.vcxproj -> H:\Desktop\Documents\University\Computer Science\Third Year\Semester B\Parallel\Assignment\15624188\x64\Debug\Tutorial 2\Tutorial 2.exe
+  ..\images\cat.pgm
+  ..\images\Einstein.pgm
+  ..\images\test.pgm
+  ..\images\test_large.pgm
+  4 File(s) copied
+  kernels\my_kernels.cl
+  1 File(s) copied
+  ..\images\cat.pgm
+  ..\images\Einstein.pgm
+  ..\images\test.pgm
+  ..\images\test_large.pgm
+  4 File(s) copied
